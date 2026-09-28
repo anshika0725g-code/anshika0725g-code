@@ -67,8 +67,8 @@ An Arduino-based radar system using an HC-SR04 ultrasonic sensor and SG90 servo 
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: Coming soon
-- 📧 Email: Coming soon
+- 💼 LinkedIn: www.linkedin.com/in/anshika-gupta-250707g
+- 📧 Email: anshika0725g@gmail.com
 
 ---
 
