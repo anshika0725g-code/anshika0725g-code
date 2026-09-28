@@ -49,9 +49,6 @@ An automated parking system using Arduino, ESP32-CAM, IR sensors, OCR and Supaba
 ### 🧠 Neural Network From Scratch
 A C-based implementation exploring the fundamentals of neural networks without relying on high-level ML libraries.
 
-### 📋 Python To-Do List
-A simple Python application for managing daily tasks.
-
 ### 📡 Radar System
 An Arduino-based radar system using an HC-SR04 ultrasonic sensor and SG90 servo motor.
 
